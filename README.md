@@ -13,7 +13,7 @@ The dataset consists of 8 sub-datasets with a total of 19,853 clauses, all (semi
 * One dataset from speech data of English language learners
 * One curated dataset from published research on sentence patterns, with 100 example sentences for each of 10 constructions
 
-#### Datasets transfromed from the English Argument Structure Constructions Treebank ([Sung and Kyle, 2024](#reference))
+#### Datasets transfromed from the English Argument Structure Constructions Treebank (Sung and Kyle, 2024)
 
 * Five datasets from the English Argument Structure Constructions Treebank, covering 5 web registers:
 	+ Blogs
@@ -29,4 +29,4 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
 ### Citations
 Hwang, H. (in revision). Assessing the performance of pretrained models for accurate and consistent classification of argument structure constructions.
 
-<a id="reference">Sung, H., & Kyle, K. (2024). Annotation Scheme for English Argument Structure Constructions Treebank. In Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII), 12-18, Association for Computational Linguistics.</a>
+Sung, H., & Kyle, K. (2024). Annotation Scheme for English Argument Structure Constructions Treebank. In Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII), 12-18, Association for Computational Linguistics.
